@@ -1,8 +1,8 @@
-# 🤖 AI & Machine Learning Bootcamp
+# AI & Machine Learning Bootcamp
 
 A comprehensive hands-on repository covering the fundamentals of Artificial Intelligence, Machine Learning workflows, data engineering basics, and industry-standard tools used throughout the AI project lifecycle.
 
-## 📖 Overview
+## Overview
 
 This repository documents my learning journey through an AI & Machine Learning Bootcamp. It covers the complete AI project cycle, from problem identification and data collection to model development, evaluation, and experiment tracking.
 
